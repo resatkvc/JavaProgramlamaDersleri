@@ -1,4 +1,4 @@
-# Java Erişim Belirleyiciler (Access Modifiers) Örnekleri
+# Java Erişim Belirleyiciler (Access Modifiers) için Adım Adım Anlatım
 
 Bu proje, Java'da erişim belirleyicilerin (access modifiers) kullanımını gösteren örnekler içermektedir.
 
