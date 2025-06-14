@@ -58,6 +58,24 @@ public class C1_VeriTipleri {
         }
         System.out.println();
 
+        System.out.println();
+
+        // -----------------------------
+        // Projede nasıl kullanılır?
+        // Örnek: Bir müşteri kaydı uygulaması - müşteri bilgilerini tutma ve raporlama
+        // -----------------------------
+        String musteriAdi = "Ahmet Yılmaz";
+        int musteriYasi = 32;
+        double bakiye = 1540.75;
+        boolean aktifMi = true;
+        char cinsiyet = 'E';
+
+        System.out.println("\nMüşteri Bilgileri:");
+        System.out.println("Adı: " + musteriAdi);
+        System.out.println("Yaşı: " + musteriYasi);
+        System.out.println("Bakiye: " + bakiye + " TL");
+        System.out.println("Aktif mi?: " + (aktifMi ? "Evet" : "Hayır"));
+        System.out.println("Cinsiyet: " + (cinsiyet == 'E' ? "Erkek" : "Kadın"));
 
     }
 }

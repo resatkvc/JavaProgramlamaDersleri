@@ -6,8 +6,8 @@ package JavaDersleri.D3_Donguler;
  * - Başlangıç değeri, bitiş koşulu ve artış/azalış miktarı belirlenebilir
  * - İç içe kullanılarak çok boyutlu işlemler yapılabilir
  * - Diziler ve koleksiyonlar üzerinde işlem yapmak için idealdir
- * - Örnek kullanım alanları: Sayı dizileri, çarpım tabloları, matris işlemleri
- * - Artan veya azalan sırada işlem yapılabilir
+ * - Örnek kullanım alanları: Sayı dizileri, çarpım tabloları, matris işlemleri, raporlama, veri toplama
+ * - Projelerde genellikle veri işleme, toplama, filtreleme ve raporlama gibi işlemlerde kullanılır.
  */
 public class C1_ForDongusu {
     public static void main(String[] args) {
@@ -44,5 +44,18 @@ public class C1_ForDongusu {
             toplam += i;
         }
         System.out.println("\n1'den 5'e kadar sayıların toplamı: " + toplam);
+
+        // -----------------------------
+        // Projede nasıl kullanılır?
+        // Örnek: Bir satış raporu uygulaması - günlük satışları diziyle tutup toplam ve ortalama hesaplama
+        // -----------------------------
+        int[] gunlukSatislar = {1200, 950, 1100, 800, 1500, 1700, 1300};
+        int toplamSatis = 0;
+        for (int i = 0; i < gunlukSatislar.length; i++) {
+            toplamSatis += gunlukSatislar[i];
+        }
+        double ortalamaSatis = (double) toplamSatis / gunlukSatislar.length;
+        System.out.println("\nHaftalık toplam satış: " + toplamSatis + " TL");
+        System.out.println("Günlük ortalama satış: " + ortalamaSatis + " TL");
     }
 }
