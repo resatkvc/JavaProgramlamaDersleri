@@ -24,7 +24,3 @@ Bu ders kapsamında, Java ile test otomasyonunda raporlama ve loglama konuların
 2. Testin başarılı veya başarısız olduğu durumlar rapora ve loglara kaydedilir.
 3. Hata oluşursa ekran görüntüsü alınır ve rapora eklenir.
 4. Test sonunda detaylı rapor ve loglar incelenebilir.
-
----
-
-Bu dosya, D12 dersi için hem okuma rehberi hem de uygulama sırasında başvurulacak bir kaynak olarak hazırlanmıştır. 
