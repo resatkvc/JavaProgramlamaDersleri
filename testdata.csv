@@ -1,0 +1,5 @@
+TestName,Username,Password,ExpectedResult
+Valid Admin Login,admin,123456,Login successful
+Valid User Login,user,password,Login successful
+Invalid Login,wrong,wrong,Login failed
+Empty Credentials,,,Login failed

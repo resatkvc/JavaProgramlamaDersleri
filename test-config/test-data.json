@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://example.com",
+  "apiUrl": "https://api.example.com",
+  "databaseUrl": "jdbc:mysql://localhost:3306/testdb",
+  "username": "testuser",
+  "password": "testpass",
+  "email": "test@example.com",
+  "phone": "+905551234567"
+}

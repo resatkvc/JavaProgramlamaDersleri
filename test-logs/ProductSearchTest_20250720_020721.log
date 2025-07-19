@@ -1,0 +1,14 @@
+[2025-07-20 02:07:21.342] [INFO] [ProductSearchTest] Test başlatıldı: ProductSearchTest
+[2025-07-20 02:07:21.345] [INFO] [ProductSearchTest] Log dosyası: test-logs/ProductSearchTest_20250720_020721.log
+[2025-07-20 02:07:21.346] [INFO] [ProductSearchTest] Hata log dosyası: error-logs/ProductSearchTest_ERROR_20250720_020721.log
+[2025-07-20 02:07:21.346] [INFO] [ProductSearchTest] E-ticaret ürün arama testi başlatıldı
+[2025-07-20 02:07:21.347] [STEP] [ProductSearchTest] Test Adımı: Sayfa Açma - E-ticaret ana sayfası açılıyor
+[2025-07-20 02:07:22.358] [INFO] [ProductSearchTest] Ana sayfa başarıyla açıldı
+[2025-07-20 02:07:22.362] [STEP] [ProductSearchTest] Test Adımı: Arama Kutusu - Arama kutusuna tıklanıyor
+[2025-07-20 02:07:22.870] [INFO] [ProductSearchTest] Arama kutusuna tıklandı
+[2025-07-20 02:07:22.879] [STEP] [ProductSearchTest] Test Adımı: Ürün Arama - 'laptop' aranıyor
+[2025-07-20 02:07:23.882] [INFO] [ProductSearchTest] Arama terimi girildi: laptop
+[2025-07-20 02:07:23.883] [STEP] [ProductSearchTest] Test Adımı: Sonuç Kontrolü - Arama sonuçları kontrol ediliyor
+[2025-07-20 02:07:24.701] [INFO] [ProductSearchTest] Arama sonuçları başarıyla görüntülendi
+[2025-07-20 02:07:24.704] [RESULT] [ProductSearchTest] Test Sonucu: PASS - Ürün arama testi başarıyla tamamlandı
+[2025-07-20 02:07:24.707] [INFO] [ProductSearchTest] Test tamamlandı: ProductSearchTest

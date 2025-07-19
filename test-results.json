@@ -1,0 +1,28 @@
+{
+  "testResults": [
+    {
+      "testName": "Valid Admin Login",
+      "status": "PASS",
+      "actualResult": "Login successful",
+      "timestamp": "2025-07-20 02:13:39"
+    },
+    {
+      "testName": "Valid User Login",
+      "status": "PASS",
+      "actualResult": "Login successful",
+      "timestamp": "2025-07-20 02:13:39"
+    },
+    {
+      "testName": "Invalid Login",
+      "status": "PASS",
+      "actualResult": "Login failed",
+      "timestamp": "2025-07-20 02:13:39"
+    },
+    {
+      "testName": "Empty Credentials",
+      "status": "PASS",
+      "actualResult": "Login failed",
+      "timestamp": "2025-07-20 02:13:39"
+    }
+  ]
+}

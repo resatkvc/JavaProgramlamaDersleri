@@ -1,0 +1,6 @@
+[2025-07-20 01:24:12.398] [ERROR] [ProductSearchTest] Test sırasında hata oluştu - Exception: Ürün bulunamadı: laptop
+Stack Trace:
+java.lang.RuntimeException: Ürün bulunamadı: laptop
+	at JavaDersleri.D13_JavaFileIOAndTestAutomation.C2_LogFileManagement.runProductSearchTest(C2_LogFileManagement.java:283)
+	at JavaDersleri.D13_JavaFileIOAndTestAutomation.C2_LogFileManagement.main(C2_LogFileManagement.java:349)
+
