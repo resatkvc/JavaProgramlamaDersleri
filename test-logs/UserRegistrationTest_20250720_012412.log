@@ -1,0 +1,14 @@
+[2025-07-20 01:24:12.407] [INFO] [UserRegistrationTest] Test başlatıldı: UserRegistrationTest
+[2025-07-20 01:24:12.407] [INFO] [UserRegistrationTest] Log dosyası: test-logs/UserRegistrationTest_20250720_012412.log
+[2025-07-20 01:24:12.408] [INFO] [UserRegistrationTest] Hata log dosyası: error-logs/UserRegistrationTest_ERROR_20250720_012412.log
+[2025-07-20 01:24:12.410] [INFO] [UserRegistrationTest] Kullanıcı kayıt testi başlatıldı
+[2025-07-20 01:24:12.413] [STEP] [UserRegistrationTest] Test Adımı: Sayfa Navigasyonu - Kayıt sayfasına yönlendiriliyor
+[2025-07-20 01:24:13.424] [INFO] [UserRegistrationTest] Kayıt sayfası açıldı
+[2025-07-20 01:24:13.424] [STEP] [UserRegistrationTest] Test Adımı: Form Doldurma - Kullanıcı bilgileri giriliyor
+[2025-07-20 01:24:14.937] [INFO] [UserRegistrationTest] Kullanıcı bilgileri girildi
+[2025-07-20 01:24:14.937] [STEP] [UserRegistrationTest] Test Adımı: Doğrulama - Girilen bilgiler doğrulanıyor
+[2025-07-20 01:24:15.746] [INFO] [UserRegistrationTest] Bilgiler doğrulandı
+[2025-07-20 01:24:15.747] [STEP] [UserRegistrationTest] Test Adımı: Kayıt İşlemi - Kullanıcı kaydı tamamlanıyor
+[2025-07-20 01:24:16.958] [INFO] [UserRegistrationTest] Kullanıcı kaydı tamamlandı
+[2025-07-20 01:24:16.961] [RESULT] [UserRegistrationTest] Test Sonucu: PASS - Kullanıcı kayıt testi başarıyla tamamlandı
+[2025-07-20 01:24:16.961] [INFO] [UserRegistrationTest] Test tamamlandı: UserRegistrationTest
